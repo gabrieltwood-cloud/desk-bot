@@ -1,0 +1,10 @@
+.DS_Store
+build/
+dist/
+*.xcuserstate
+xcuserdata/
+.swiftpm/
+assets/promo/_frames/
+assets/promo/_review-*.png
+stage/
+promo/
